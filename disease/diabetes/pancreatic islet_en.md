@@ -6,7 +6,8 @@
 
 ## pancreatic islet cells
 ### [pancreatic islet A cells(or called pancreatic islet alpha cells)](https://en.wikipedia.org/wiki/Alpha_cell)
-> [! NOTE]
+
+> [!NOTE]
 > In general, pancreatic islet A cells secrete glucagon. Eventually, blood sugar rises to a certain level.
 
 + In general, pancreatic islet A cells secrete glucagon. Glycgon binds to receptors in cells such as liver cells and kidney cells. During this process, glycogen phosphorylase in liver cells is activated to hydrolyze [Glycogen](https://en.wikipedia.org/wiki/Glycogen) into glucose. This in turn raises blood sugar to a certain level.
