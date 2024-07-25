@@ -1,5 +1,7 @@
 # [胰島](https://www.commonhealth.com.tw/diabetes/article/66)
 ## 構造圖
+![image](https://github.com/user-attachments/assets/eff2a76f-7491-4af7-89a9-5ad5b0632e28)
+
 ![image](https://github.com/user-attachments/assets/a2e2baec-d2a2-4ba1-a516-01a478bb550c)
 
 ## 胰島細胞
