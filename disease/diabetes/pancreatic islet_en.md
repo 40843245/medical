@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4711b392-d53f-41e5-9bc3-5a6d8bd0da48)# [pancreatic islet]
+# [pancreatic islet]
 ## paradigm
 ![image](https://github.com/user-attachments/assets/4b5a9aad-113d-4ab4-80a3-a0bb4ad0d230)
 
