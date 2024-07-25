@@ -24,6 +24,7 @@
 + 在上述的過程中，血液中的葡萄糖將會透過葡萄糖轉運蛋白GLUT2將它轉移入胰島B細胞內，再透過該胰島B細胞代謝產生[ATP](https://zh.wikipedia.org/zh-tw/%E4%B8%89%E7%A3%B7%E9%85%B8%E8%85%BA%E8%8B%B7)。
 
 ## Ref
+[腎上腺素](https://zh.wikipedia.org/zh-tw/%E8%82%BE%E4%B8%8A%E8%85%BA%E7%B4%A0)
 
 ## See Also
 [相關文章(我的Github筆記)](https://github.com/40843245/medical/tree/main/disease/diabetes)
