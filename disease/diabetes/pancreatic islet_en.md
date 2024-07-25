@@ -17,7 +17,7 @@
 + In general, pancreatic islet A cells can promote the hydrolysis of adipose tissue and the oxidation of fatty acids, resulting in an increase in the level of free fatty acids in the blood. Finally, the liver takes up free fatty acids and stores some triglycerides, and in the process, a little keto acid is also produced.
 
 ### [pancreatic islet B cells (or called pancreatic islet beta cells](https://en.wikipedia.org/wiki/Beta_cell)
-> [! NOTE]
+> [!NOTE]
 > In general, pancreatic B cells secrete insulin. Eventually, blood sugar drops to a certain level.
 
 + In general, pancreatic B cells secrete insulin. Insulin binds to insulin receptors on the surface of target cells. Induce metabolic changes in cells, accelerate the utilization of glucose, and then reduce blood sugar to a certain extent.
