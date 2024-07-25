@@ -23,3 +23,11 @@
 + In general, pancreatic B cells secrete insulin. Insulin binds to insulin receptors on the surface of target cells. Induce metabolic changes in cells, accelerate the utilization of glucose, and then reduce blood sugar to a certain extent.
   
 + During the above process, glucose in the blood will be transferred to the pancreatic B cells through the glucose transporter GLUT2, and then metabolized by the pancreatic B cells to produce [ATP](https://en.wikipedia.org/wiki/Adenosine_triphosphate)
+
+## Ref
++ [adrenaline](https://en.wikipedia.org/wiki/Adrenaline)
++ [pancreatic alpha cell(Wiki)](https://en.wikipedia.org/wiki/Alpha_cell)
++ [pancreatic beta cell(Wiki)](https://en.wikipedia.org/wiki/Beta_cell)
+
+## See Also
+[Related articles(My Notes at Github)](https://github.com/40843245/medical/tree/main/disease/diabetes)
