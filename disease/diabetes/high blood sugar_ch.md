@@ -159,7 +159,17 @@
 5. [心血管疾病](https://zh.wikipedia.org/wiki/%E5%BF%83%E8%A1%80%E7%AE%A1%E7%96%BE%E7%97%85):俗稱`糖尿心`。
 
 ### 長期高血糖的併發症的詳細說明
-
+仔細閱讀`### 高血糖的症兆的詳細說明`這一小節裡的blockquote的內容並認真思考，相信您能知道其背後原理。跟該內容一樣。
 詳見 `### 高血糖的症兆的詳細說明`這一小節。
 
+## 相關症狀
++ 糖尿病
+
+## Ref
++ [糖尿病(Wiki)](https://zh.wikipedia.org/wiki/%E7%B3%96%E5%B0%BF%E7%97%85)
++ [解讀健檢紅字 胰臟過勞可能變糖尿病](https://www.commonhealth.com.tw/diabetes/article/34?_ga=2.104092928.1490046666.1721886719-1370084061.1721886716&pk_vid=87c0a03465908b3c172190713590394f)
++ 
+
+## See Also
+詳見[糖尿病(我的Github筆記)](https://github.com/40843245/medical/blob/main/disease/diabetes/diabetes_ch.md)
 
