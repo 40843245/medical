@@ -1,8 +1,8 @@
 # [pancreatic islet]
 ## paradigm
-![image](https://github.com/user-attachments/assets/4b5a9aad-113d-4ab4-80a3-a0bb4ad0d230)
-
 ![image](https://github.com/user-attachments/assets/ef9866e4-f922-47e5-be02-a2bb29e74654)
+
+![image](https://github.com/user-attachments/assets/4b5a9aad-113d-4ab4-80a3-a0bb4ad0d230)
 
 ## pancreatic islet cells
 ### [pancreatic islet A cells(or called pancreatic islet alpha cells)](https://en.wikipedia.org/wiki/Alpha_cell)
