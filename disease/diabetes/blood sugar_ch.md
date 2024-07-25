@@ -6,8 +6,7 @@
 
 > 在一般情況下，當遇到壓力(如，被狗追)時，腎上腺素會被分泌，讓血糖上升。
 
-## [消化食物的機轉](https://www.commonhealth.com.tw/diabetes/article/66 
-麻雀雖小但五臟俱全―胰臟)
+## [消化食物的機轉](https://www.commonhealth.com.tw/diabetes/article/66)
 
 1. 當食物進入腸道後，腸道內的細胞會分泌一種稱為腸泌素的荷爾蒙（GIP及GLP-1）
 2. 該腸泌素會抑制胰臟α細胞，以減少升糖素分泌。
