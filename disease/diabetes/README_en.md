@@ -1,7 +1,6 @@
 # diabetes
 ## symptom
 ### typical symptom 
-
 > [!TIP]
 > 3 more and 1 less.
 > + eat more
