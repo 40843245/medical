@@ -10,3 +10,13 @@
 1. When food enters the intestines, the cells in the intestines secrete hormones called enterin (GIP and GLP-1)
 2. This enterin inhibits α cells of the pancreas to reduce the secretion of glucagon.
 3. Enterin also stimulates β cells in the pancreas, prompting more insulin to be secreted, which may help protect pancreatic islet cells.
+
+## Ref
++ [糖尿病的關鍵因素：胰島素](https://www.commonhealth.com.tw/diabetes/article/66)
+
+Sorry I coundn't find the article in English version.
+
+## See Also
+[Related articles(My Notes at Github)](https://github.com/40843245/medical/tree/main/disease/diabetes)
+
+
