@@ -1,4 +1,4 @@
-# [pancreatic islet]
+# pancreatic islet
 ## paradigm
 ![image](https://github.com/user-attachments/assets/ef9866e4-f922-47e5-be02-a2bb29e74654)
 
@@ -20,7 +20,7 @@
 > [!NOTE]
 > In general, pancreatic B cells secrete insulin. Eventually, blood sugar drops to a certain level.
 
-+ In general, pancreatic B cells secrete insulin. Insulin binds to insulin receptors on the surface of target cells. Induce metabolic changes in cells, accelerate the utilization of glucose, and then reduce blood sugar to a certain extent.
++ In general, pancreatic B cells secrete insulin. Insulin binds to insulin receptors on the surface of target cells. Induce metabolic changes in cells, accelerate the utilization of glucose, and then reduce blood sugar to a certain extent.a
   
 + During the above process, glucose in the blood will be transferred to the pancreatic B cells through the glucose transporter GLUT2, and then metabolized by the pancreatic B cells to produce [ATP](https://en.wikipedia.org/wiki/Adenosine_triphosphate)
 
