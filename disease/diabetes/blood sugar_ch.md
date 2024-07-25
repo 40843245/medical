@@ -21,6 +21,4 @@
 + [糖尿病的關鍵因素：胰島素](https://www.commonhealth.com.tw/diabetes/article/66)
 
 ## See Also
-+ [高血糖(我的Github筆記)](https://github.com/40843245/medical/blob/main/disease/diabetes/high%20blood%20sugar_ch.md)
-+ [糖尿病(我的Github筆記)](https://github.com/40843245/medical/blob/main/disease/diabetes/diabetes_ch.md)
-+ [胰島(我的Github筆記)](https://github.com/40843245/medical/blob/main/disease/diabetes/pancreatic%20islet_ch.md)
+[相關文章(我的Github筆記)](https://github.com/40843245/medical/tree/main/disease/diabetes)
