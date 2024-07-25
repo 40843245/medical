@@ -171,5 +171,5 @@
 + 
 
 ## See Also
-詳見[糖尿病(我的Github筆記)](https://github.com/40843245/medical/blob/main/disease/diabetes/diabetes_ch.md)
+[相關文章(我的Github筆記)](https://github.com/40843245/medical/tree/main/disease/diabetes)
 
