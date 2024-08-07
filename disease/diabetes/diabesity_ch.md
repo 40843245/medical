@@ -37,6 +37,7 @@
 以逐步達到疾病和體重控制的目標。
 ```
 
+筆者認為還要達到 [高血糖的治療和避免](https://github.com/40843245/medical/blob/main/disease/diabetes/high%20blood%20sugar_ch_TOC.md#%E6%9C%89%E9%97%9C%E6%96%BC%E9%80%A0%E6%88%90%E9%AB%98%E8%A1%80%E7%B3%96%E7%9A%84%E8%83%8C%E5%BE%8C%E5%8E%9F%E5%9B%A0)。
 ## 藥物
 ### 目前最著名藥物
 ![糖胖症藥物](https://github.com/user-attachments/assets/dd156783-4569-426f-8f1c-5943519624c2)
