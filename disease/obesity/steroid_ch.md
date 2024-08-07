@@ -14,7 +14,10 @@
 
 ![image](https://github.com/user-attachments/assets/27b0d9d2-2f79-40a5-8fca-c8b23f4138a0)
 
+## 分類
 
+> [!NOTE]
+> 類固醇依照它的功能大概可以分成 2 類：荷爾蒙和固醇。
 
 
 
