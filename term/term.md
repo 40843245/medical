@@ -466,6 +466,22 @@ CNS stands for [`Central nervous system`](https://en.wikipedia.org/wiki/Central_
 dopamine: 
 + (n.) 多巴胺
 
+## about cell
+### [cell](https://en.wikipedia.org/wiki/Cell_(biology))
+cell:
++ (n.) 細胞
+
+### [mitochondrion](https://en.wikipedia.org/wiki/Mitochondrion)
+mitochondrion:
++ (n.) 粒線體
+
+> [!TIP]
+> 單字拆解
+>
+> -mito-: thread (from Greek `mitos` which means `thread`)
+>
+> -chondrion-: granule (from Greek `khondrion` which means diminutive of **`knondros`** `granule`)
+
 ## about origanism
 ### about kidneys
 #### [kidneys](https://en.wikipedia.org/wiki/Kidney)
@@ -765,6 +781,21 @@ albumin:
 
 See also
 + [`albumen`](#albumen)
+
+### about glucose
+#### [glucose](https://en.wikipedia.org/wiki/Glucose)
+glucose:
++ (n) 葡萄糖
+
+#### [carbohybrate](https://en.wikipedia.org/wiki/Carbohydrate)
+carbohybrate:
++ (n.) 碳水化合物
+
+> [!TIP]
+> 單字拆解
+>
+> blend of `carbon` and `hybrate`. 
+
 ## about disease
 ### [necrosis](https://en.wikipedia.org/wiki/Necrosis)
 necrosis:
