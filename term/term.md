@@ -467,7 +467,8 @@ dopamine:
 + (n.) 多巴胺
 
 ## about origanism
-### [kidneys](https://en.wikipedia.org/wiki/Kidney)
+### about kidneys
+#### [kidneys](https://en.wikipedia.org/wiki/Kidney)
 kidneys:
 + (n.) 腎臟
 
@@ -482,7 +483,38 @@ relateing to [kidneys](#kidneys).
 >
 > renal: (from Latin `renes` which means [kidneys](#kidneys))
 
-### [adrenal gland](https://en.wikipedia.org/wiki/Adrenal_gland)
+### about pancreas
+#### [pancreas](https://en.wikipedia.org/wiki/Pancreas)
+pancreas:
++ (n.) 胰臟
+
+#### pancretic
+pancretic:
++ (adj.) 胰臟的
+
+adjective form of [`pancreas`](#pancreas)
+
+#### [insulin](https://en.wikipedia.org/wiki/Insulin)
+insulin: 
++ (n.) 胰島素
+
+#### [glucagon](https://en.wikipedia.org/wiki/Glucagon)
+glucagon:
++ (n.) 升糖素
+
+#### [adrenaline](https://en.wikipedia.org/wiki/Adrenaline)
+adrenaline:
++ (n.) 腎上腺素
+
+a.k.a.
++ [`epinephrine`](#epinephrine)
+
+#### [epinephrine](https://en.wikipedia.org/wiki/Adrenaline)
+
+a.k.a.
++ [`adrenaline`](#adrenaline)
+### about adrenal gland
+#### [adrenal gland](https://en.wikipedia.org/wiki/Adrenal_gland)
 adrenal gland:
 + (n.) 腎上腺素的器官
 
@@ -688,7 +720,51 @@ acetyl:
 acyl:
 + (n.) 酰基
 
+### about ester
+#### [ester](https://en.wikipedia.org/wiki/Ester)
+ester:
++ (n.) 酯
+
+#### esterify
+esterify:
++ (v.) 酯化
+
+#### esterification
+esterification:
++ (n.) 酯化
   
+#### re-esterification
+re-esterification:
++ (n.) 重新酯化
+
+#### DNL
+DNL stands for [`de novo lipogenesis`](#de-novo-lipogenesis)
+
+#### de novo lipogenesis
+de novo lipogenesis:
+(ph.) 脂肪從頭合成
+
+abbreviates to 
++ [`DNL`](#DNL)
+  
+See also
++ [`lipogenesis`](#lipogenesis)
+
+### about protein
+#### [protein](https://en.wikipedia.org/wiki/Protein)
+protein:
++ (n.) 蛋白質
+
+#### [albumen](https://en.wikipedia.org/wiki/Egg_white)
+albumen:
++ (n.) 蛋白 (=egg white) (i.e. the white part of an egg.)
+ 
+#### [albumin](https://en.wikipedia.org/wiki/Albumin)
+albumin:
++ (n.) 白蛋白 (又稱清蛋白)
+
+See also
++ [`albumen`](#albumen)
 ## about disease
 ### [necrosis](https://en.wikipedia.org/wiki/Necrosis)
 necrosis:
