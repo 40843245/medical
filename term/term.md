@@ -82,7 +82,7 @@ a kind of huge lipoprotein particle. (一種巨大脂蛋白分子)
 > 
 > -chylo-: juice (from Greek `chylos` which means juice)
 > 
-> micro: 微(單位) (e.g. 10<sup>6</sub> microseconds = 1 second)
+> micro: 微(單位) (e.g. 10<sup>6</sup> microseconds = 1 second)
 
 ## about harmone
 ### growth harmone
