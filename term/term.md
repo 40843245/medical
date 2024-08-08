@@ -11,7 +11,7 @@ obese:
   
 ### obesity
 obesity:
-+ (n.) 肥胖 (`obese`的名詞形式)
++ (n.) 肥胖 ([`obese`](#obese)的名詞形式)
 
 ### lipid
 lipid:
@@ -75,13 +75,13 @@ anti-lipolytic:
 lipoprotein:
 + (n.) 脂蛋白
 
-lipoproteins are combination of lipid and protein.
+lipoproteins are combination of [lipid](#lipid) and protein.
 
 ### [chylomicron](https://en.wikipedia.org/wiki/Chylomicron)
 chylomicron:
 + (n.) 乳糜微粒
 
-chylomicron is a kind of a huge lipoprotein particle. (一種巨大脂蛋白分子)
+chylomicron is a kind of a huge [lipoprotein](#lipoprotein) particle. (一種巨大脂蛋白分子)
 
 > [!TIP]
 > 單字拆解
@@ -93,12 +93,12 @@ chylomicron is a kind of a huge lipoprotein particle. (一種巨大脂蛋白分�
 ### [LDL](https://en.wikipedia.org/wiki/Low-density_lipoprotein)
 
 > [!NOTE]
-> LDL stands for low-density lipoprotein.
+> LDL stands for low-density [lipoprotein](#lipoprotein).
 
 ### [VLDL](https://en.wikipedia.org/wiki/Very_low-density_lipoprotein)
 
 > [!NOTE]
-> VLDL stands for very low-density lipoprotein.
+> VLDL stands for very low-density [lipoprotein](#lipoprotein).
 
 ## about losing weight
 ### diet
@@ -122,9 +122,9 @@ catecholamine is a monoamine neurotransmitter, an organic compound that has a ca
 > [!TIP]
 > 單字拆解
 >
-> catechol: (n.) 兒茶酚
+> [catechol](#catechol): (n.) 兒茶酚
 >
-> dopamine: (n.) 多巴胺
+> [dopamine](#dopamine): (n.) 多巴胺
 
 ### about CNS
 #### CNS 
@@ -151,7 +151,7 @@ natriuretic peptide:
 >
 > -ur-: urine 尿液
 >
-> peptide: (n.) 肽
+> [peptide](#peptide): (n.) 肽
 
 ## about animo acid
 ### peptide
@@ -199,7 +199,9 @@ tumor:
 
 #### cancer
 cancer: 
-+ (n.) 癌症 (= malicious tumor)
++ (n.) 癌症 (= malicious [tumor](#tumor))
 
-
-  
+## about other
+### factor 
+factor:
++ (n.) 因子
