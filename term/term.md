@@ -71,6 +71,15 @@ lipolytic:
 > 
 > For root `lyt`, think about the word `analyze`.
 
+### [lipolysis](https://en.wikipedia.org/wiki/Lipolysis)
+lipolysis:
++ (n.) 脂肪分解過程
+  
+> [!TIP]
+> 單字字尾變化
+>
+> 詳見 [`lipolytic`](#lipolytic)
+
 ### pro-lipolytic
 pro-lipolytic:
 + (adj.) 有利於分解脂肪的
@@ -122,7 +131,53 @@ fatty acid:
 ### FFA
 FFA stands for `free fatty acid`
 
-See [fatty acid](#fatty-acid)
+See also
++ [fatty acid](#fatty-acid)
+
+### [FAT](https://en.wikipedia.org/wiki/CD36)
+FAT stands for `fatty acid translocase`. 
+
+a.k.a. 
++ `CD36`
++ `platelet glycoprotein 4`
++ `GP88` (stands for `glycoproteins 88`)
++ `SCARB3` (stands for `scavenger receptor class B member 3`)
++ `GPIIIB`
++ `GPIV`
+
+See also 
++ [translocase](#translocase)
++ [fatty acid](#fatty-acid)
+
+### [CD36](https://en.wikipedia.org/wiki/CD36)
+a.k.a 
++ [FAT](#FAT)
+
+### [FAS receptor](https://en.wikipedia.org/wiki/Fas_receptor)
+abbreviates to
++ `FASR`
+
+a.k.a. 
++ `CD95` (stands for `cluster of differentiation 95 `)
++ `TNFRSF6` (stands for ` tumor necrosis factor receptor superfamily member 6 `)
++ `APO-1` (stands for `apoptosis antigen 1`)
+  
+## about enzyme
+### [enzyme](https://en.wikipedia.org/wiki/Enzyme)
+enzyme:
++ (n.) 酵素 (又稱`酶`)
+
+### [translocase](https://en.wikipedia.org/wiki/Translocase)
+translocase:
++ (n.) 轉位酶
+
+> [!TIP]
+> 單字拆解
+>
+> -trans-: (v.) 轉化 (related word `translation`)
+>
+> -ase: (n.) 酶 (enzyme)
+
 
 ## about losing weight
 ### diet
@@ -159,10 +214,56 @@ CNS stands for [`Central nervous system`](https://en.wikipedia.org/wiki/Central_
 dopamine: 
 + (n.) 多巴胺
 
+## about origanism
+### [kidneys](https://en.wikipedia.org/wiki/Kidney)
+kidneys:
++ (n.) 腎臟
+
+### renal
+renal:
++ (adj.) 腎臟的 
+
+relateing to [kidneys](#kidneys).
+
+> [!TIP]
+> 單字由來
+>
+> renal: (from Latin `renes` which means [kidneys](#kidneys))
+
+### [adrenal gland](https://en.wikipedia.org/wiki/Adrenal_gland)
+adrenal gland:
++ (n.) 腎上腺素的器官
+
+### [adrenals](https://en.wikipedia.org/wiki/Adrenal_gland)
+a.k.a.
++ [`adrenal gland`](#adrenal-gland)
+
 ## about harmone
 ### growth harmone
 growth harmone:
 + (ph.) 生長賀爾蒙
+
+### adrenal
+adrenal:
++ (adj.) 腎上
+
+> [!TIP]
+> 單字拆解
+>
+> ad-: (v.) 使...
+> 
+> [renal](#renal): (adj.) 腎臟的 
+
+### [adrenocortical hormone](https://en.wikipedia.org/wiki/Adrenocortical_hormone)
+adrenocortical hormone:
++ (n.) 腎上腺素激素
+
+> [!TIP]
+> 單字拆解
+>
+> adreno: (relates to the word [`adrenal`](#adrenal)
+> 
+> cortical: (adjective form of the word [`cortisol`](#cortisol))
 
 ### [natriuretic peptide](https://en.wikipedia.org/wiki/Natriuretic_peptide)
 natriuretic peptide:
@@ -224,6 +325,15 @@ tumor:
 #### cancer
 cancer: 
 + (n.) 癌症 (= malicious [tumor](#tumor))
+
+#### [ACC](https://en.wikipedia.org/wiki/Adrenocortical_carcinoma)
+ACC stands for `adrenocortical carcinoma`.
+
+See also
++ [adrenocortical carcinoma](#adrenocortical-carcinoma)
+  
+#### [adrenocortical carcinoma](https://en.wikipedia.org/wiki/Adrenocortical_carcinoma)
+
 
 ## about other
 ### factor 
