@@ -1,5 +1,5 @@
 # term
-# about lipid
+## about lipid
 ### fat
 fat:
 + (n.) 脂肪
@@ -90,6 +90,13 @@ chylomicron is a kind of a huge [lipoprotein](#lipoprotein) particle. (一種巨
 > 
 > micro: 微(單位) (e.g. 10<sup>6</sup> microseconds = 1 second)
 
+### [lipase](https://en.wikipedia.org/wiki/Lipase)
+lipase:
++ (n.) 脂酶
+  
+### LPL
+LPL stands for [`Lipoprotein lipase`](https://en.wikipedia.org/wiki/Lipoprotein_lipase)
+
 ### [LDL](https://en.wikipedia.org/wiki/Low-density_lipoprotein)
 
 > [!NOTE]
@@ -99,6 +106,9 @@ chylomicron is a kind of a huge [lipoprotein](#lipoprotein) particle. (一種巨
 
 > [!NOTE]
 > VLDL stands for very low-density [lipoprotein](#lipoprotein).
+
+### FFA
+FFA stands for `free \[fatty acids\]\(https://en.wikipedia.org/wiki/Fatty_acid\)`
 
 ## about losing weight
 ### diet
@@ -205,3 +215,4 @@ cancer:
 ### factor 
 factor:
 + (n.) 因子
+
