@@ -33,6 +33,15 @@ lipogenic:
 > 
 > -ic : a suffix for adjective
 
+### [lipogenesis](https://en.wikipedia.org/wiki/Lipogenesis)
+lipogenesis:
++ (n.) 脂肪轉換過程
+
+> [!TIP]
+> 單字字尾變化
+>
+> 詳見 [`lipogenic`](#lipogenic)
+
 ### pro-lipogenic
 pro-lipogenic:
 + (adj.) 有利於轉成脂肪的
@@ -43,7 +52,6 @@ pro-lipogenic:
 > pro : advantage
 >
 > Think about the phrase `pros and cons` which means `advantage and disadvantages`.
-
 
 ### anti-lipogenic
 anti-lipogenic:
@@ -107,8 +115,14 @@ LPL stands for [`Lipoprotein lipase`](https://en.wikipedia.org/wiki/Lipoprotein_
 > [!NOTE]
 > VLDL stands for very low-density [lipoprotein](#lipoprotein).
 
+### [fatty acid](https://en.wikipedia.org/wiki/Fatty_acid)
+fatty acid:
++ (n.) 脂肪酸
+
 ### FFA
-FFA stands for `free \[fatty acids\]\(https://en.wikipedia.org/wiki/Fatty_acid\)`
+FFA stands for `free fatty acid`
+
+See [fatty acid](#fatty-acid)
 
 ## about losing weight
 ### diet
