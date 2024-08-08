@@ -107,6 +107,31 @@ chylomicron is a kind of a huge [lipoprotein](#lipoprotein) particle. (一種巨
 > 
 > micro: 微(單位) (e.g. 10<sup>6</sup> microseconds = 1 second)
 
+### [glycerol](https://en.wikipedia.org/wiki/Glycerol)
+a.k.a.
++ [`glycerine`](#glycerine)
+
+### [glycerine](https://en.wikipedia.org/wiki/Glycerol)
+glycerine:
++ (n.) 甘油
+
+alias of 
++ [`glycerol`](#glycerol) (archive)
+
+> [!TIP]
+> 單字由來
+>
+> glycerine: (from French `glycerin` which comes from Greek `glukeros` meaning `sweet`)
+  
+### [glyceride](https://en.wikipedia.org/wiki/Glyceride)
+glyceride:
++ (n.) 甘油酯
+
+> [!TIP]
+> 相關單字
+>
+> [glycerine](#glycerine)
+
 ### [lipase](https://en.wikipedia.org/wiki/Lipase)
 lipase:
 + (n.) 脂酶
@@ -138,7 +163,7 @@ See also
 FAT stands for `fatty acid translocase`. 
 
 a.k.a. 
-+ `CD36`
++ [`CD36`](#CD36)
 + `platelet glycoprotein 4`
 + `GP88` (stands for `glycoproteins 88`)
 + `SCARB3` (stands for `scavenger receptor class B member 3`)
@@ -161,11 +186,74 @@ a.k.a.
 + `CD95` (stands for `cluster of differentiation 95 `)
 + `TNFRSF6` (stands for ` tumor necrosis factor receptor superfamily member 6 `)
 + `APO-1` (stands for `apoptosis antigen 1`)
-  
+
+### [GLUT4](https://en.wikipedia.org/wiki/GLUT4)
+GLUT4 stands for [`Glucose transporter type 4`](#glucose-transporter-type-4).
+
+### [glucose transporter type 4](https://en.wikipedia.org/wiki/GLUT4)
+abbreviates to
++ [`GLUT4`](#GLUT4)
+
+a.k.a.
++ `solute carrier family 2, facilitated glucose transporter member 4`
+
+### [G3P](https://en.wikipedia.org/wiki/Glyceraldehyde_3-phosphate)
+G3P stands for [`glyceraldehyde 3-phosphate`](#glyceraldehyde-3-phosphate)
+
+### [glyceraldehyde 3-phosphate](https://en.wikipedia.org/wiki/Glyceraldehyde_3-phosphate)
+abbreviates to 
++ [`G3P`](#G3P)
++ `GA3P`
++ `GADP`
++ `TP`
++ etc
+
+a.k.a.
++ `triose phosphate`
++ `3-phosphoglyceraldehyde`
+
+### [TAG](https://en.wikipedia.org/wiki/Triglyceride)
+TAG stands for [`triacylglycerol`](#triacylglycerol)
+
+### [triacylglycerol](https://en.wikipedia.org/wiki/Triglyceride)
+triacylglycerol:
++ (n.) 三酸甘油脂
+
+> [!TIP]
+> 單字拆解
+>
+> tri-: (n.) three
+>
+> -acyl-: (n.) acid
+>
+> [glycerol](#glycerol): (n.) 甘油脂
+
+abbreviates to
++ [`TAG`](#TAG)
+
+### [DGAT](https://en.wikipedia.org/wiki/Diglyceride_acyltransferase)
+DGAT stands for [`diglyceride acyltransferase`](#diglyceride-acyltransferase)
+
+### [diglyceride acyltransferase](https://en.wikipedia.org/wiki/Diglyceride_acyltransferase)
+
+abbreivates to 
++ [`DGAT`](#DGAT)
+
 ## about enzyme
 ### [enzyme](https://en.wikipedia.org/wiki/Enzyme)
 enzyme:
 + (n.) 酵素 (又稱`酶`)
+
+### [coenzyme](https://en.wikipedia.org/wiki/Coenzyme_A)
+coenzyme:
++ (n.) 輔助酶
+
+> [!TIP]
+> 單字拆解
+>
+> co-: (prep.) together
+>
+> [enzyme](#enzyme): (n.) 酵素 (又稱`酶`)
 
 ### [translocase](https://en.wikipedia.org/wiki/Translocase)
 translocase:
@@ -176,8 +264,19 @@ translocase:
 >
 > -trans-: (v.) 轉化 (related word `translation`)
 >
-> -ase: (n.) 酶 (enzyme)
+> -ase: (n.) 酶 ([enzyme](#enzyme))
 
+### [acetyl-CoA](https://en.wikipedia.org/wiki/Acetyl-CoA)
+acetyl-CoA stands for [`acetyl coenzyme A`](#acetyl-coenzyme-A)
+
+### [acetyl coenzyme A](https://en.wikipedia.org/wiki/Acetyl-CoA)
+
+> [!TIP]
+> 單字拆解
+>
+> [acetyl](#acetyl): (n.) 乙醯基
+>
+> [coenzyme](#coenzyme) (n.) 輔助酶
 
 ## about losing weight
 ### diet
@@ -278,8 +377,9 @@ natriuretic peptide:
 >
 > [peptide](#peptide): (n.) 肽
 
-## about animo acid
-### peptide
+## about compound
+### about animo acid
+#### peptide
 peptide: 
 + (n.) 肽
 
@@ -288,16 +388,16 @@ peptide:
 >
 > a back form of the word `polypeptide` according to Cambridge dictionary.
 
-## about cortisol
-### [cortisol](https://en.wikipedia.org/wiki/Cortisol)
+### about cortisol
+#### [cortisol](https://en.wikipedia.org/wiki/Cortisol)
 cortisol:
 + (n.) 皮質醇 (或音譯為可體松)
   
-### [corticosteroid](https://en.wikipedia.org/wiki/Corticosteroid)
+#### [corticosteroid](https://en.wikipedia.org/wiki/Corticosteroid)
 corticosteroid:
 + (n.) 皮質類固醇
 
-### [glucocorticoid](https://en.wikipedia.org/wiki/Glucocorticoid)
+#### [glucocorticoid](https://en.wikipedia.org/wiki/Glucocorticoid)
 glucocorticoid:
 + (n.) 糖皮質素
 
@@ -306,12 +406,17 @@ glucocorticoid:
 >
 > glucose: (n.) 葡萄糖 
 >
-> [corticosteroid](#corticosteroid): (n.) 皮質類固醇  
+> [corticosteroid](#corticosteroid): (n.) 皮質類固醇
 
-## about poison
-### catechol
+### about catechol
+#### catechol
 + (n.) 兒茶酚
 
+### about acetyl
+#### [acetyl](https://en.wikipedia.org/wiki/Acetyl_group)
+acetyl:
++ (n.) 乙醯基
+  
 ## about disease
 ### [necrosis](https://en.wikipedia.org/wiki/Necrosis)
 necrosis:
@@ -321,7 +426,7 @@ necrosis:
 #### tumor
 tumor:
 + (n.) 腫瘤 (may be benign tumor, or malicious tumor)
-
+  
 #### cancer
 cancer: 
 + (n.) 癌症 (= malicious [tumor](#tumor))
@@ -334,9 +439,7 @@ See also
   
 #### [adrenocortical carcinoma](https://en.wikipedia.org/wiki/Adrenocortical_carcinoma)
 
-
 ## about other
 ### factor 
 factor:
 + (n.) 因子
-
