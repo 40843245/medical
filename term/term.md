@@ -71,11 +71,17 @@ pro-lipolytic:
 anti-lipolytic:
 + (adj.) 不利於分解脂肪的
 
-### chylomicrons 
-chylomicrons:
+### [lipoprotein](https://en.wikipedia.org/wiki/Lipoprotein)
+lipoprotein:
++ (n.) 脂蛋白
+
+lipoproteins are combination of lipid and protein.
+
+### [chylomicron](https://en.wikipedia.org/wiki/Chylomicron)
+chylomicron:
 + (n.) 乳糜微粒
 
-a kind of huge lipoprotein particle. (一種巨大脂蛋白分子)
+chylomicron is a kind of a huge lipoprotein particle. (一種巨大脂蛋白分子)
 
 > [!TIP]
 > 單字拆解
@@ -84,15 +90,112 @@ a kind of huge lipoprotein particle. (一種巨大脂蛋白分子)
 > 
 > micro: 微(單位) (e.g. 10<sup>6</sup> microseconds = 1 second)
 
+### [LDL](https://en.wikipedia.org/wiki/Low-density_lipoprotein)
+
+> [!NOTE]
+> LDL stands for low-density lipoprotein.
+
+### [VLDL](https://en.wikipedia.org/wiki/Very_low-density_lipoprotein)
+
+> [!NOTE]
+> VLDL stands for very low-density lipoprotein.
+
+## about losing weight
+### diet
+diet:
++ (n.) 節食
++ (v.) 節食
+
+### fast
+fast:
++ (n.) 禁食
++ (v.) 禁食
++ (adj.) 快速的  (= quick)
+
+## about nerve
+### [catecholamine](https://en.wikipedia.org/wiki/Catecholamine)
+catecholamine:
++ (n.) 兒茶酚胺
+  
+catecholamine is a monoamine neurotransmitter, an organic compound that has a catechol (benzene with two hydroxyl side groups next to each other) and a side-chain amine.[1]
+
+> [!TIP]
+> 單字拆解
+>
+> catechol: (n.) 兒茶酚
+>
+> dopamine: (n.) 多巴胺
+
+### about CNS
+#### CNS 
+
+CNS stands for [`Central nervous system`](https://en.wikipedia.org/wiki/Central_nervous_system)
+
+#### dopamine
+dopamine: 
++ (n.) 多巴胺
+
 ## about harmone
 ### growth harmone
 growth harmone:
 + (ph.) 生長賀爾蒙
 
+### [natriuretic peptide](https://en.wikipedia.org/wiki/Natriuretic_peptide)
+natriuretic peptide:
++ (n.) 利鈉肽
+  
+> [!TIP]
+> 單字拆解
+>
+> natron: (n.) 泡鹼
+>
+> -ur-: urine 尿液
+>
+> peptide: (n.) 肽
+
+## about animo acid
+### peptide
+peptide: 
++ (n.) 肽
+
+> [!TIP]
+> 單字由來
+>
+> a back form of the word `polypeptide` according to Cambridge dictionary.
+
+## about cortisol
+### [cortisol](https://en.wikipedia.org/wiki/Cortisol)
+cortisol:
++ (n.) 皮質醇 (或音譯為可體松)
+  
+### [corticosteroid](https://en.wikipedia.org/wiki/Corticosteroid)
+corticosteroid:
++ (n.) 皮質類固醇
+
+### [glucocorticoid](https://en.wikipedia.org/wiki/Glucocorticoid)
+glucocorticoid:
++ (n.) 糖皮質素
+
+> [!TIP]
+> 單字拆解
+>
+> glucose: (n.) 葡萄糖
+>
+> corticosteroid: (n.) 皮質類固醇
+
+## about poison
+### catechol
++ (n.) 兒茶酚
+
+## about disease
+### about tumor
+#### tumor
+tumor:
++ (n.) 腫瘤 (may be benign tumor, or malicious tumor)
+
+#### cancer
+cancer: 
++ (n.) 癌症 (= malicious tumor)
 
 
-
-
-
-
-
+  
