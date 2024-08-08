@@ -179,15 +179,19 @@ glucocorticoid:
 > [!TIP]
 > 單字拆解
 >
-> glucose: (n.) 葡萄糖
+> glucose: (n.) 葡萄糖 
 >
-> corticosteroid: (n.) 皮質類固醇
+> [corticosteroid](#corticosteroid): (n.) 皮質類固醇  
 
 ## about poison
 ### catechol
 + (n.) 兒茶酚
 
 ## about disease
+### [necrosis](https://en.wikipedia.org/wiki/Necrosis)
+necrosis:
++ (n.) 壞死
+
 ### about tumor
 #### tumor
 tumor:
