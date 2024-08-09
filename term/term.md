@@ -21,6 +21,16 @@ adipose:
 adipose tissue:
 + (n.) 脂肪組織
 
+### [BAT](https://en.wikipedia.org/wiki/Brown_adipose_tissue)
+BAT stands for [`brown adipose tissue`](#brown-adipose-tissue)
+
+### [brown adipose tissue](https://en.wikipedia.org/wiki/Brown_adipose_tissue)
+brown adipose tissue:
++ (n.) 棕色脂肪組織
+
+abbreviates to
++ [`BAT`](#BAT)
+
 ### [white adipose tissue](https://en.wikipedia.org/wiki/White_adipose_tissue)
 white adipose tissue:
 + (n.) 白色脂肪組織
@@ -458,16 +468,58 @@ catecholamine is a monoamine neurotransmitter, an organic compound that has a ca
 > [dopamine](#dopamine): (n.) 多巴胺
 
 ### about CNS
-#### CNS 
+#### [CNS](https://en.wikipedia.org/wiki/Central_nervous_system)
+CNS stands for [`central nervous system`](#central-nervous-system)
 
-CNS stands for [`Central nervous system`](https://en.wikipedia.org/wiki/Central_nervous_system)
+### [central nervous system](https://en.wikipedia.org/wiki/Central_nervous_system)
+central nervous system:
++ (n.) 中樞神經系統
+
+abbreviates to 
++ [`CNS`](#CNS)
+
+#### about SNS
+##### [SNS](https://en.wikipedia.org/wiki/Sympathetic_nervous_system)
+SNS stands for [`sympathetic nervous system`](#sympathetic-nervous-system)
+
+##### [sympathetic nervous system](https://en.wikipedia.org/wiki/Sympathetic_nervous_system)
+sympathetic nervous system: 
++ (n.) 交感神經系統
+
+abbreviates to
++ [`SNS`](#SNS)
+
+##### [NA](https://en.wikipedia.org/wiki/Norepinephrine)
+NA stands for [`noradrenaline`](#noradrenaline)
+
+##### [noradrenaline](https://en.wikipedia.org/wiki/Norepinephrine)
+noradrenaline:
++ (n.) 去甲基腎上腺素 (又稱正腎上腺素)
+
+abbreviates to 
++ [`NA`](#NA)
+
+a.k.a.
++ [`norepinephrine`](#norepinephrine)
+
+##### [NE](https://en.wikipedia.org/wiki/Norepinephrine)
+NE stands for [`norepinephrine`](#norepinephrine).
+
+##### [norepinephrine](https://en.wikipedia.org/wiki/Norepinephrine)
+
+abbreviates to 
++ [`NE`](#NE)
+  
+a.k.a.
++ [`noradrenaline`](#noradrenaline)
+  
 
 #### dopamine
 dopamine: 
 + (n.) 多巴胺
 
 ## about cell
-### [cell](https://en.wikipedia.org/wiki/Cell_(biology))
+### [cell](https://en.wikipedia.org/wiki/Cell)
 cell:
 + (n.) 細胞
 
@@ -481,7 +533,7 @@ mitochondrion:
 > -mito-: thread (from Greek `mitos` which means `thread`)
 >
 > -chondrion-: granule (from Greek `khondrion` which means diminutive of **`knondros`** `granule`)
-
+  
 ## about origanism
 ### about kidneys
 #### [kidneys](https://en.wikipedia.org/wiki/Kidney)
@@ -611,6 +663,7 @@ Arabica:
 related word:
 + Arabica coffee
 + Arabic
+
 #### arabinose
 
 > [!TIP]
@@ -625,7 +678,7 @@ related word:
 #### ribose
 arbitrary aleration of the word [`arabinose`](#arabinose).
 
-#### [adenosine]
+#### [adenosine](https://en.wikipedia.org/wiki/Adenosine)
 adenosine:
 + (n.) 腺苷
 
@@ -666,7 +719,7 @@ aortic:
 > 
 > adjective form of the word [`aorta`](#aorta)
 
-#### [regurgitation](https://en.wikipedia.org/wiki/Regurgitation_(digestion))
+#### [regurgitation](https://en.wikipedia.org/wiki/Regurgitation)
 regurgitation:
 + (n.) 反芻 (= repeatly indigestion for bisection)
 + (n.) 返流 (= noun form of the word `reflux`)
@@ -787,6 +840,19 @@ See also
 glucose:
 + (n) 葡萄糖
 
+#### [glycogen](https://en.wikipedia.org/wiki/Glycogen)
+glycogen:
++ (n.) 肝醣
+
+> [!TIP]
+> 單字拆解
+>
+> -gen-: (v.) generate
+
+#### [blood sugar](https://en.wikipedia.org/wiki/Blood_sugar_level)
+blood sugar:
++ (n.) 血糖
+
 #### [carbohybrate](https://en.wikipedia.org/wiki/Carbohydrate)
 carbohybrate:
 + (n.) 碳水化合物
@@ -796,6 +862,112 @@ carbohybrate:
 >
 > blend of `carbon` and `hybrate`. 
 
+## about immunity
+### immunity
+immunity:
++ (n.) 免疫力
+
+### immune system
+immune system:
++ (n.) 免疫系統
+
+### about innate immune system
+#### innate
+innate:
++ (adj.) 與生俱來的
+  
+#### [innate immune system](https://en.wikipedia.org/wiki/Innate_immune_system)
+innate immune system:
++ (n.) 先天免疫系統
+
+a.k.a.
++ [`nonspecific immune system`](#nonspecific-immune-system)
+
+#### [nonspecific immune system](https://en.wikipedia.org/wiki/Innate_immune_system)
+
+a.k.a.
++ [`innate immune system`](#innate-immune-system)
+
+#### [macrophages](https://zh.m.wikipedia.org/zh-tw/%E5%B7%A8%E5%99%AC%E7%BB%86%E8%83%9E)
+macrophages:
++ (n.) 巨噬細胞
+
+#### [neutrophils](https://zh.m.wikipedia.org/zh-tw/%E4%B8%AD%E6%80%A7%E7%B2%92%E7%BB%86%E8%83%9E)
+neutrophils:
++ (n.) 嗜中性白血球
+
+#### [natual killer cells](https://zh.m.wikipedia.org/zh-tw/%E8%87%AA%E7%84%B6%E6%9D%80%E4%BC%A4%E7%BB%86%E8%83%9E)
+natual killer cells:
++ (n.) 自然殺手細胞
+
+#### [complement system](https://en.wikipedia.org/wiki/Complement_system)
+complement system:
++ (n.) 補體系統
+
+#### about cytokine
+##### [cytokine](https://zh.m.wikipedia.org/zh-tw/%E7%BB%86%E8%83%9E%E5%9B%A0%E5%AD%90)
+cytokine:
++ (n.) 細胞激素 (又稱細胞因子)
+
+##### [interleukin-1 family](https://en.wikipedia.org/wiki/Interleukin-1_family)
+interleukin-1 family:
++ (n.) 白介素-1族 (又稱白血球介素-1族)
+
+##### [IL-6](https://en.wikipedia.org/wiki/Interleukin_6)
+IL-6 stands for [`interleukin 6`](#interleukin-6)
+
+##### [interleukin 6](https://en.wikipedia.org/wiki/Interleukin_6)
+interleukin 6:
++ (n.) 白介素-6 (又稱白血球介素-6)
+
+abbreviates to
++ [`IL-6`](#IL-6)
+
+##### [TNF-α](https://en.wikipedia.org/wiki/Tumor_necrosis_factor)
+TNF-α stands for [`tumor necrosis factor alpha`](#tumor-necrosis-factor-alpha)
+
+##### [tumor necrosis factor alpha](https://en.wikipedia.org/wiki/Tumor_necrosis_factor)
+tumor necrosis factor alpha:
++ (n.) 腫瘤壞死alpha因子
+
+abbreviates to
++ [`TNF-α`](#TNF-α)
+
+### about adaptive immune system
+#### adaptive
+adaptive:
++ (adj.) 適應良好的
+  
+#### [adaptive immune system](https://en.wikipedia.org/wiki/Adaptive_immune_system)
+adaptive immune system:
++ (n.) 適應性免疫系統 (又稱後天免疫系統)
+
+####  [Ab](https://zh.m.wikipedia.org/zh-tw/%E6%8A%97%E4%BD%93)
+Ab stands for [`antibody`](#antibody)
+
+#### [antibody](https://zh.m.wikipedia.org/zh-tw/%E6%8A%97%E4%BD%93)
+antibody:
++ (n.) 抗體 (又稱免疫球蛋白)
+
+abbreviates to 
++ [`Ab`](#Ab)
+  
+a.k.a
++ [`immunoglobulin`](#immunoglobulin)
+
+#### [Lg](https://zh.m.wikipedia.org/zh-tw/%E6%8A%97%E4%BD%93)
+Lg stands for [`immunoglobulin`](#immunoglobulin)
+
+#### [immunoglobulin](https://zh.m.wikipedia.org/zh-tw/%E6%8A%97%E4%BD%93)
+
+abbreviates to
++ [`Lg`](#Lg)
+
+a.k.a.
++ [`antibody`](#antibody)
+
+
+####
 ## about disease
 ### [necrosis](https://en.wikipedia.org/wiki/Necrosis)
 necrosis:
@@ -810,6 +982,17 @@ tumor:
 cancer: 
 + (n.) 癌症 (= malicious [tumor](#tumor))
 
+#### [carcinoma](https://en.wikipedia.org/wiki/Carcinoma)
+carcinoma:
++ (n.) 皮質癌
+
+> [!TIP]
+> 單字拆解
+>
+> -carc-: (n.) blood meet
+>
+> -oma: (n.) cancer
+
 #### [ACC](https://en.wikipedia.org/wiki/Adrenocortical_carcinoma)
 ACC stands for `adrenocortical carcinoma`.
 
@@ -817,7 +1000,13 @@ See also
 + [adrenocortical carcinoma](#adrenocortical-carcinoma)
   
 #### [adrenocortical carcinoma](https://en.wikipedia.org/wiki/Adrenocortical_carcinoma)
+adrenocortical carcinoma:
++ (n.) 腎上腺皮質癌
 
+See also
++ [`adrenocortical`](#adrenocortical)
++ [`carcinoma`](#carcinoma)
+  
 ## about other
 ### factor 
 factor:
