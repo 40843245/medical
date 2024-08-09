@@ -1131,6 +1131,18 @@ interleukin 6:
 abbreviates to
 + [`IL-6`](#IL-6)
 
+##### [IL-10](https://en.wikipedia.org/wiki/Interleukin_10)
+IL-10 stands for [`interleukin 6`](#interleukin-10)
+
+##### [interleukin 10](https://en.wikipedia.org/wiki/Interleukin_10)
+interleukin 10:
++ (n.) 白介素-10 (又稱白血球介素-10)
+
+abbreviates to
++ [`IL-10`](#IL-10)
+
+  
+
 ##### [TNF-α](https://en.wikipedia.org/wiki/Tumor_necrosis_factor)
 TNF-α stands for [`tumor necrosis factor alpha`](#tumor-necrosis-factor-alpha)
 
@@ -1173,7 +1185,6 @@ abbreviates to
 
 a.k.a.
 + [`antibody`](#antibody)
-
 
 ####
 ## about disease
@@ -1336,12 +1347,22 @@ ventilate:
 ### ventilation
 ventilation:
 + (n.) 通風
++ (n.) 呼吸 (=breathing) (more literally)
 ### hyperventilation
+hyperventilation:
++ (n.) 過度換氣
 
 > [!TIP]
 > 單字拆解
 >
 > hyper-: super
 >
-> 
+> ventilation: (n.) 呼吸
+
 ### cyclic hyperventilation
+cyclic hyperventilation:
++ (n.) 周期過度換氣的呼吸法
+
+See also
++ [`cyclic`](#cyclic)
++ [`hyperventilation`](#hyperventilation)
