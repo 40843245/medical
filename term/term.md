@@ -1131,6 +1131,16 @@ interleukin 6:
 abbreviates to
 + [`IL-6`](#IL-6)
 
+##### [IL-8](https://en.wikipedia.org/wiki/Interleukin_8)
+IL-8 stands for [`interleukin 6`](#interleukin-8)
+
+##### [interleukin 8](https://en.wikipedia.org/wiki/Interleukin_8)
+interleukin 8:
++ (n.) 白介素-8 (又稱白血球介素-8)
+
+abbreviates to
++ [`IL-8`](#IL-8)
+  
 ##### [IL-10](https://en.wikipedia.org/wiki/Interleukin_10)
 IL-10 stands for [`interleukin 6`](#interleukin-10)
 
@@ -1140,8 +1150,6 @@ interleukin 10:
 
 abbreviates to
 + [`IL-10`](#IL-10)
-
-  
 
 ##### [TNF-α](https://en.wikipedia.org/wiki/Tumor_necrosis_factor)
 TNF-α stands for [`tumor necrosis factor alpha`](#tumor-necrosis-factor-alpha)
