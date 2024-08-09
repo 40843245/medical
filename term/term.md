@@ -540,6 +540,28 @@ a.k.a.
 dopamine: 
 + (n.) 多巴胺
 
+#### tonic
+tonic:
++ (n.) 補品
+
+> [!TIP]
+> 單字由來
+>
+> tonic (from Greek `tonikos` `of or for stretching` which is also from Greek `tonos` related to the word `tone`.)
+
+#### serum
+serum:
++ (n.) 血清
+  
+#### serotonin
+serotonin:
++ (n.) 血清素
+
+> [!TIP]
+> 單字拆解
+>
+> serotonin = [serum](#serum) + [tonic](#tonic) + -in
+
 ## about cell
 ### [cell](https://en.wikipedia.org/wiki/Cell)
 cell:
@@ -557,10 +579,108 @@ mitochondrion:
 > -chondrion-: granule (from Greek `khondrion` which means diminutive of **`knondros`** `granule`)
   
 ## about origanism
+### about brain
+#### brain
+brain:
++ (n.) 大腦
+
+#### front
+front:
++ (n.) 前面
+
+> [!NOTE]
+> A common used phrase:
+>
+> in front of + N
+
+#### frontal
+frontal:
++ (n.) 額葉
+
+> [!TIP]
+> 單字拆解
+>
+> [front](#front): (n.) 前面
+>
+> -al : make it into adjective or noun.
+
+#### prefrontal
+prefrontal:
++ (n.) 前額葉
+
+> [!TIP]
+> 單字拆解
+>
+> pre-: forward
+>
+> [frontal](#frontal): (n.) 額葉 
+
+#### cortex
+cortex:
++ (n.) 皮質
+
+#### [PFC](https://en.wikipedia.org/wiki/Prefrontal_cortex)
+PFC stands for [`prefrontal cortex`](#prefrontal-cortex)
+
+#### [prefrontal cortex]
+prefrontal cortex:
++ (n.) 前額葉皮質
+  
+abbreviates to 
++ [`PFC`](#PFC)
+  
+### about gland
+#### gland
+gland:
++ (n.) 腺體 (如:腎上腺的英文為`adrenine gland` a.k.a. `adrenines`)
+
+#### pine
+pine:
++ (n.) 松果
++ (n.) 松果樹 (a.k.a. `pine tree`)
+  
+#### [pineal](https://en.wikipedia.org/wiki/Pineal_gland)
+
+a.k.a.
++ [`pineal gland`](#pineal-gland)
+
+#### [pineal body](https://en.wikipedia.org/wiki/Pineal_gland)
+
+a.k.a.
++ [`pineal body`](#pineal-body)
+  
+#### [pineal gland](https://en.wikipedia.org/wiki/Pineal_gland)
+pineal gland:
++ (n.) 松果體
+
+a.k.a.
++ [`pineal`](#pineal)
++ [`pineal body`](#pineal-body)
+
+#### [habenula](https://en.wikipedia.org/wiki/Habenula)
+habenula:
++ (n.) 韁核
+
+> [!TIP]
+> 單字由來
+>
+> habenula (from Latin `habena` `韁繩`)
+
+a.k.a.
++ [`habenular nuclei`](#habenular-nuclei)
+
+#### [habenular nuclei](https://en.wikipedia.org/wiki/Habenula)
+habenular nuclei:
++ (n.) 韁核 (又稱失望之核)
+
+a.k.a.
++ [`habenula`](#habenula)
+
 ### about eye
 #### eye
 eye:
 + (n.) 眼睛
+
 
 #### retinal
 retinal:
@@ -576,10 +696,53 @@ See also
 + [`ganglion`](#ganglion)
 + [`cell`](#cell)
 
-#### SCN
-SCN stands for [`suprachiasmatic nuclei
-#### suprachiasmatic nuclei
+#### [chiasma](https://en.wikipedia.org/wiki/Chiasma_(genetics))
+chiasma:
++ (n.) 交叉
 
+> [!TIP]
+> 單字由來
+>
+> chiasma (from Greek `chiasma` which means `crosspeice` or `cross-shaped mark` which is orginated from `khiazein` which means `mark with the letter chi`.
+
+#### suprachiasmatic
++ (adj.) 視交叉上的
+
+> [!TIP]
+> 單字拆解
+>
+> supr-, super-: super, above (here is `above`)
+>
+> [chiasma](#chiasma): (n.) 交叉
+>
+> -ic: make it into adjective form
+
+#### nucleus
+nucleus:
++ (n.) 核
+
+> [!TIP]
+> 單字由來
+>
+> -nuc-: kernel (from Latin literally `kernel` which means `inner part`, also is diminutive of **`nux`**, **`nuc-`** which means `nut`.)
+
+#### nuclei
+nuclei:
++ (n.) 核 (複數)
+
+> [!NOTE]
+> nuclei is a plural noun of [`nucleus`](#nucleus)
+
+#### [SCN](https://en.wikipedia.org/wiki/Suprachiasmatic_nucleus)
+SCN stands for [`suprachiasmatic nuclei`](#suprachiasmatic-nuclei)
+
+#### [suprachiasmatic nuclei](https://en.wikipedia.org/wiki/Suprachiasmatic_nucleus)
+suprachiasmatic nuclei:
++ (n.) 視交叉上核
+  
+abbreviates to 
++ [`SCN`](#SCN)
+  
 ### about kidneys
 #### [kidneys](https://en.wikipedia.org/wiki/Kidney)
 kidneys:
@@ -1082,6 +1245,14 @@ abbreviates to
 + (v.) 睡覺
 + (n.) 睡眠
 
+### [rapid eye movement sleep](https://en.wikipedia.org/wiki/Rapid_eye_movement_sleep)
+rapid eye movement sleep:
++ (n.) 快速動眼睡眠
+
+See also
++ [`eye`](#eye)
++ [`sleep`](#sleep)
+  
 ### circadian
 cirdian:
 + (n.) recurring naturally on a twenty-four-hour cycle, even in the absence of light fluctuations.
@@ -1093,3 +1264,84 @@ rhythm:
 ### [circadian rhythm](https://en.wikipedia.org/wiki/Circadian_rhythm)
 circadian rhythm:
 (n.) 晝夜節律 (又稱近日節律)
+
+### [melatonin](https://en.wikipedia.org/wiki/Melatonin)
+melatonin:
++ (n.) 褪黑激素
+
+> [!TIP]
+> 單字拆解
+>
+> -mela-: black (fromm Greek `melas` which means `black`)
+>
+> blend of `-mela-` and `serotonin`
+
+## about therapy or cure
+### [therapy](https://en.wikipedia.org/wiki/Therapy)
+therapy:
++ (n.) 治療
+
+### [cure](https://en.wikipedia.org/wiki/Cure)
+cure:
++ (n.) 治癒
+
+> [!NOTE]
+> `therapy` has NOT same meaning to `cure`.
+>
+> `therapy` refers to use a medical way to NOT make the symptom of disease get worse.
+>
+> `cure` refers to use a medical way to make the symptom of disease dispear even if there is **ONLY** a small probability that get the same symptom.
+
+### [CBT](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy)
+CBT stands for [`cognitive behavioral therapy`](#cognitive-behavioral-therapy)
+
+### [cognitive behavioral therapy](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy)
+cognitive behavioral therapy:
++ (n.) 行為認知治療
+  
+abbreviates to
++ [`CBT`](#CBT)
+
+### CBT-I 
+CBT-I stands for [`instruction of cognitive behavioral therapy`](#instruction-of-cognitive-behavioral-therapy)
+
+### instruction of cognitive behavioral therapy
+instruction of cognitive behavioral therapy:
++ (n.) 行為認知治療指南
+
+abbreviates to
++ [`CBT-I`](#CBT-I)
+
+### cycle
+cycle:
++ (n.) 循環
+  
+### cyclic
++ (adj.) 週期性的 (=periodic)
+
+### winnow
+winnow:
++ (v.) blow a current of air through (grain) in order to remove the chaff
++ (n.) wind (literally)
+  
+### ventilate
+ventilate:
+(v.) 使通風
+
+> [!TIP]
+> 單字由來
+>
+> (from Latin `ventilat-` `blown` or `winnowed` which is originated in ventus `wind`. Sense 1 dates from the middle of 18th century.)
+
+### ventilation
+ventilation:
++ (n.) 通風
+### hyperventilation
+
+> [!TIP]
+> 單字拆解
+>
+> hyper-: super
+>
+> 
+### cyclic hyperventilation
