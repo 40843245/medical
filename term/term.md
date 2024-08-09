@@ -453,7 +453,29 @@ fast:
 + (v.) 禁食
 + (adj.) 快速的  (= quick)
 
+## about muscle
+### muscle
+muscle:
++ (n.) 肌肉
+
+### sinews
+sinews:
++ (n.) 筋
+
+### tendons
+tendons:
++ (n.) 肌腱
+
 ## about nerve
+### [ganglion](https://en.wikipedia.org/wiki/Ganglion)
+ganglion:
++ (n.) 神經節
+
+> [!TIP]
+> 單字由來
+>
+> ganglion (from Greek `ganglion` which means `tumor on or near sinews or tendons`.
+
 ### [catecholamine](https://en.wikipedia.org/wiki/Catecholamine)
 catecholamine:
 + (n.) 兒茶酚胺
@@ -535,6 +557,29 @@ mitochondrion:
 > -chondrion-: granule (from Greek `khondrion` which means diminutive of **`knondros`** `granule`)
   
 ## about origanism
+### about eye
+#### eye
+eye:
++ (n.) 眼睛
+
+#### retinal
+retinal:
++ (n.) 視網膜
++ (adj.) 視網膜的
+
+#### [retinal ganglion cell](https://en.wikipedia.org/wiki/Retinal_ganglion_cell)
+retinal ganglion cell:
++ (n.) 視網膜神經節細胞
+
+See also
++ [`retinal`](#retinal)
++ [`ganglion`](#ganglion)
++ [`cell`](#cell)
+
+#### SCN
+SCN stands for [`suprachiasmatic nuclei
+#### suprachiasmatic nuclei
+
 ### about kidneys
 #### [kidneys](https://en.wikipedia.org/wiki/Kidney)
 kidneys:
@@ -1031,3 +1076,20 @@ compound muscle action potential:
 
 abbreviates to 
 + [`cMAP`](#cMAP)
+
+## about sleep
+### sleep
++ (v.) 睡覺
++ (n.) 睡眠
+
+### circadian
+cirdian:
++ (n.) recurring naturally on a twenty-four-hour cycle, even in the absence of light fluctuations.
+
+### [rhythm](https://en.wikipedia.org/wiki/Rhythm)
+rhythm:
++ (n.) 節律
+  
+### [circadian rhythm](https://en.wikipedia.org/wiki/Circadian_rhythm)
+circadian rhythm:
+(n.) 晝夜節律 (又稱近日節律)
