@@ -7,6 +7,8 @@
       + [obesity](#obesity)
       + [adipose](#adipose)
       + [adipose tissue](#adipose-tissue)
+      + [BAT](#bat)
+      + [brown adipose tissue](#brown-adipose-tissue)
       + [white adipose tissue](#white-adipose-tissue)
       + [lipid](#lipid)
       + [lipogenic](#lipogenic)
@@ -64,15 +66,57 @@
    * [about losing weight](#about-losing-weight)
       + [diet](#diet)
       + [fast](#fast)
+   * [about muscle](#about-muscle)
+      + [muscle](#muscle)
+      + [sinews](#sinews)
+      + [tendons](#tendons)
    * [about nerve](#about-nerve)
+      + [ganglion](#ganglion)
       + [catecholamine](#catecholamine)
       + [about CNS](#about-cns)
-         - [CNS ](#cns)
+         - [CNS](#cns)
+      + [central nervous system](#central-nervous-system)
+         - [about SNS](#about-sns)
+            * [SNS](#sns)
+            * [sympathetic nervous system](#sympathetic-nervous-system)
+            * [NA](#na)
+            * [noradrenaline](#noradrenaline)
+            * [NE](#ne)
+            * [norepinephrine](#norepinephrine)
          - [dopamine](#dopamine)
+         - [tonic](#tonic)
+         - [serum](#serum)
+         - [serotonin](#serotonin)
    * [about cell](#about-cell)
-      + [cell)](#cell)
+      + [cell](#cell)
       + [mitochondrion](#mitochondrion)
    * [about origanism](#about-origanism)
+      + [about brain](#about-brain)
+         - [brain](#brain)
+         - [front](#front)
+         - [frontal](#frontal)
+         - [prefrontal](#prefrontal)
+         - [cortex](#cortex)
+         - [PFC](#pfc)
+         - [[prefrontal cortex]](#prefrontal-cortex)
+      + [about gland](#about-gland)
+         - [gland](#gland)
+         - [pine](#pine)
+         - [pineal](#pineal)
+         - [pineal body](#pineal-body)
+         - [pineal gland](#pineal-gland)
+         - [habenula](#habenula)
+         - [habenular nuclei](#habenular-nuclei)
+      + [about eye](#about-eye)
+         - [eye](#eye)
+         - [retinal](#retinal)
+         - [retinal ganglion cell](#retinal-ganglion-cell)
+         - [chiasma)](#chiasma)
+         - [suprachiasmatic](#suprachiasmatic)
+         - [nucleus](#nucleus)
+         - [nuclei](#nuclei)
+         - [SCN](#scn)
+         - [suprachiasmatic nuclei](#suprachiasmatic-nuclei)
       + [about kidneys](#about-kidneys)
          - [kidneys](#kidneys)
       + [renal](#renal)
@@ -103,7 +147,7 @@
          - [arabica](#arabica)
          - [arabinose](#arabinose)
          - [ribose](#ribose)
-         - [[adenosine]](#adenosine)
+         - [adenosine](#adenosine)
       + [about phosphate](#about-phosphate)
          - [phosphate](#phosphate)
          - [triphosphate](#triphosphate)
@@ -111,7 +155,7 @@
          - [adenosine triphosphate](#adenosine-triphosphate)
          - [aorta](#aorta)
          - [aortic](#aortic)
-         - [regurgitation)](#regurgitation)
+         - [regurgitation](#regurgitation)
          - [AR](#ar)
          - [aortic regurgitation](#aortic-regurgitation)
       + [about peptide](#about-peptide)
@@ -139,12 +183,44 @@
          - [albumin](#albumin)
       + [about glucose](#about-glucose)
          - [glucose](#glucose)
+         - [glycogen](#glycogen)
+         - [blood sugar](#blood-sugar)
          - [carbohybrate](#carbohybrate)
+   * [about immunity](#about-immunity)
+      + [immunity](#immunity)
+      + [immune system](#immune-system)
+      + [about innate immune system](#about-innate-immune-system)
+         - [innate](#innate)
+         - [innate immune system](#innate-immune-system)
+         - [nonspecific immune system](#nonspecific-immune-system)
+         - [macrophages](#macrophages)
+         - [neutrophils](#neutrophils)
+         - [natual killer cells](#natual-killer-cells)
+         - [complement system](#complement-system)
+         - [about cytokine](#about-cytokine)
+            * [cytokine](#cytokine)
+            * [interleukin-1 family](#interleukin-1-family)
+            * [IL-6](#il-6)
+            * [interleukin 6](#interleukin-6)
+            * [IL-8](#il-8)
+            * [interleukin 8](#interleukin-8)
+            * [IL-10](#il-10)
+            * [interleukin 10](#interleukin-10)
+            * [TNF-α](#tnf-)
+            * [tumor necrosis factor alpha](#tumor-necrosis-factor-alpha)
+      + [about adaptive immune system](#about-adaptive-immune-system)
+         - [adaptive](#adaptive)
+         - [adaptive immune system](#adaptive-immune-system)
+         - [Ab](#ab)
+         - [antibody](#antibody)
+         - [Lg](#lg)
+         - [immunoglobulin](#immunoglobulin)
    * [about disease](#about-disease)
       + [necrosis](#necrosis)
       + [about tumor](#about-tumor)
          - [tumor](#tumor)
          - [cancer](#cancer)
+         - [carcinoma](#carcinoma)
          - [ACC](#acc)
          - [adrenocortical carcinoma](#adrenocortical-carcinoma)
    * [about other](#about-other)
@@ -153,6 +229,27 @@
       + [Ante Cibum](#ante-cibum)
       + [cMAP](#cmap)
       + [compound muscle action potential](#compound-muscle-action-potential)
+   * [about sleep](#about-sleep)
+      + [sleep](#sleep)
+      + [rapid eye movement sleep](#rapid-eye-movement-sleep)
+      + [circadian](#circadian)
+      + [rhythm](#rhythm)
+      + [circadian rhythm](#circadian-rhythm)
+      + [melatonin](#melatonin)
+   * [about therapy or cure](#about-therapy-or-cure)
+      + [therapy](#therapy)
+      + [cure](#cure)
+      + [CBT](#cbt)
+      + [cognitive behavioral therapy](#cognitive-behavioral-therapy)
+      + [CBT-I ](#cbt-i)
+      + [instruction of cognitive behavioral therapy](#instruction-of-cognitive-behavioral-therapy)
+      + [cycle](#cycle)
+      + [cyclic](#cyclic)
+      + [winnow](#winnow)
+      + [ventilate](#ventilate)
+      + [ventilation](#ventilation)
+      + [hyperventilation](#hyperventilation)
+      + [cyclic hyperventilation](#cyclic-hyperventilation)
 
 <!-- TOC end -->
 
@@ -185,6 +282,18 @@ adipose:
 ### [adipose tissue](https://en.wikipedia.org/wiki/Adipose_tissue)
 adipose tissue:
 + (n.) 脂肪組織
+
+<!-- TOC --><a name="bat"></a>
+### [BAT](https://en.wikipedia.org/wiki/Brown_adipose_tissue)
+BAT stands for [`brown adipose tissue`](#brown-adipose-tissue)
+
+<!-- TOC --><a name="brown-adipose-tissue"></a>
+### [brown adipose tissue](https://en.wikipedia.org/wiki/Brown_adipose_tissue)
+brown adipose tissue:
++ (n.) 棕色脂肪組織
+
+abbreviates to
++ [`BAT`](#BAT)
 
 <!-- TOC --><a name="white-adipose-tissue"></a>
 ### [white adipose tissue](https://en.wikipedia.org/wiki/White_adipose_tissue)
@@ -665,8 +774,35 @@ fast:
 + (v.) 禁食
 + (adj.) 快速的  (= quick)
 
+<!-- TOC --><a name="about-muscle"></a>
+## about muscle
+<!-- TOC --><a name="muscle"></a>
+### muscle
+muscle:
++ (n.) 肌肉
+
+<!-- TOC --><a name="sinews"></a>
+### sinews
+sinews:
++ (n.) 筋
+
+<!-- TOC --><a name="tendons"></a>
+### tendons
+tendons:
++ (n.) 肌腱
+
 <!-- TOC --><a name="about-nerve"></a>
 ## about nerve
+<!-- TOC --><a name="ganglion"></a>
+### [ganglion](https://en.wikipedia.org/wiki/Ganglion)
+ganglion:
++ (n.) 神經節
+
+> [!TIP]
+> 單字由來
+>
+> ganglion (from Greek `ganglion` which means `tumor on or near sinews or tendons`.
+
 <!-- TOC --><a name="catecholamine"></a>
 ### [catecholamine](https://en.wikipedia.org/wiki/Catecholamine)
 catecholamine:
@@ -684,19 +820,94 @@ catecholamine is a monoamine neurotransmitter, an organic compound that has a ca
 <!-- TOC --><a name="about-cns"></a>
 ### about CNS
 <!-- TOC --><a name="cns"></a>
-#### CNS 
+#### [CNS](https://en.wikipedia.org/wiki/Central_nervous_system)
+CNS stands for [`central nervous system`](#central-nervous-system)
 
-CNS stands for [`Central nervous system`](https://en.wikipedia.org/wiki/Central_nervous_system)
+<!-- TOC --><a name="central-nervous-system"></a>
+### [central nervous system](https://en.wikipedia.org/wiki/Central_nervous_system)
+central nervous system:
++ (n.) 中樞神經系統
+
+abbreviates to 
++ [`CNS`](#CNS)
+
+<!-- TOC --><a name="about-sns"></a>
+#### about SNS
+<!-- TOC --><a name="sns"></a>
+##### [SNS](https://en.wikipedia.org/wiki/Sympathetic_nervous_system)
+SNS stands for [`sympathetic nervous system`](#sympathetic-nervous-system)
+
+<!-- TOC --><a name="sympathetic-nervous-system"></a>
+##### [sympathetic nervous system](https://en.wikipedia.org/wiki/Sympathetic_nervous_system)
+sympathetic nervous system: 
++ (n.) 交感神經系統
+
+abbreviates to
++ [`SNS`](#SNS)
+
+<!-- TOC --><a name="na"></a>
+##### [NA](https://en.wikipedia.org/wiki/Norepinephrine)
+NA stands for [`noradrenaline`](#noradrenaline)
+
+<!-- TOC --><a name="noradrenaline"></a>
+##### [noradrenaline](https://en.wikipedia.org/wiki/Norepinephrine)
+noradrenaline:
++ (n.) 去甲基腎上腺素 (又稱正腎上腺素)
+
+abbreviates to 
++ [`NA`](#NA)
+
+a.k.a.
++ [`norepinephrine`](#norepinephrine)
+
+<!-- TOC --><a name="ne"></a>
+##### [NE](https://en.wikipedia.org/wiki/Norepinephrine)
+NE stands for [`norepinephrine`](#norepinephrine).
+
+<!-- TOC --><a name="norepinephrine"></a>
+##### [norepinephrine](https://en.wikipedia.org/wiki/Norepinephrine)
+
+abbreviates to 
++ [`NE`](#NE)
+  
+a.k.a.
++ [`noradrenaline`](#noradrenaline)
+  
 
 <!-- TOC --><a name="dopamine"></a>
 #### dopamine
 dopamine: 
 + (n.) 多巴胺
 
+<!-- TOC --><a name="tonic"></a>
+#### tonic
+tonic:
++ (n.) 補品
+
+> [!TIP]
+> 單字由來
+>
+> tonic (from Greek `tonikos` `of or for stretching` which is also from Greek `tonos` related to the word `tone`.)
+
+<!-- TOC --><a name="serum"></a>
+#### serum
+serum:
++ (n.) 血清
+  
+<!-- TOC --><a name="serotonin"></a>
+#### serotonin
+serotonin:
++ (n.) 血清素
+
+> [!TIP]
+> 單字拆解
+>
+> serotonin = [serum](#serum) + [tonic](#tonic) + -in
+
 <!-- TOC --><a name="about-cell"></a>
 ## about cell
 <!-- TOC --><a name="cell"></a>
-### [cell](https://en.wikipedia.org/wiki/Cell_(biology))
+### [cell](https://en.wikipedia.org/wiki/Cell)
 cell:
 + (n.) 細胞
 
@@ -711,9 +922,199 @@ mitochondrion:
 > -mito-: thread (from Greek `mitos` which means `thread`)
 >
 > -chondrion-: granule (from Greek `khondrion` which means diminutive of **`knondros`** `granule`)
-
+  
 <!-- TOC --><a name="about-origanism"></a>
 ## about origanism
+<!-- TOC --><a name="about-brain"></a>
+### about brain
+<!-- TOC --><a name="brain"></a>
+#### brain
+brain:
++ (n.) 大腦
+
+<!-- TOC --><a name="front"></a>
+#### front
+front:
++ (n.) 前面
+
+> [!NOTE]
+> A common used phrase:
+>
+> in front of + N
+
+<!-- TOC --><a name="frontal"></a>
+#### frontal
+frontal:
++ (n.) 額葉
+
+> [!TIP]
+> 單字拆解
+>
+> [front](#front): (n.) 前面
+>
+> -al : make it into adjective or noun.
+
+<!-- TOC --><a name="prefrontal"></a>
+#### prefrontal
+prefrontal:
++ (n.) 前額葉
+
+> [!TIP]
+> 單字拆解
+>
+> pre-: forward
+>
+> [frontal](#frontal): (n.) 額葉 
+
+<!-- TOC --><a name="cortex"></a>
+#### cortex
+cortex:
++ (n.) 皮質
+
+<!-- TOC --><a name="pfc"></a>
+#### [PFC](https://en.wikipedia.org/wiki/Prefrontal_cortex)
+PFC stands for [`prefrontal cortex`](#prefrontal-cortex)
+
+<!-- TOC --><a name="prefrontal-cortex"></a>
+#### [prefrontal cortex]
+prefrontal cortex:
++ (n.) 前額葉皮質
+  
+abbreviates to 
++ [`PFC`](#PFC)
+  
+<!-- TOC --><a name="about-gland"></a>
+### about gland
+<!-- TOC --><a name="gland"></a>
+#### gland
+gland:
++ (n.) 腺體 (如:腎上腺的英文為`adrenine gland` a.k.a. `adrenines`)
+
+<!-- TOC --><a name="pine"></a>
+#### pine
+pine:
++ (n.) 松果
++ (n.) 松果樹 (a.k.a. `pine tree`)
+  
+<!-- TOC --><a name="pineal"></a>
+#### [pineal](https://en.wikipedia.org/wiki/Pineal_gland)
+
+a.k.a.
++ [`pineal gland`](#pineal-gland)
+
+<!-- TOC --><a name="pineal-body"></a>
+#### [pineal body](https://en.wikipedia.org/wiki/Pineal_gland)
+
+a.k.a.
++ [`pineal body`](#pineal-body)
+  
+<!-- TOC --><a name="pineal-gland"></a>
+#### [pineal gland](https://en.wikipedia.org/wiki/Pineal_gland)
+pineal gland:
++ (n.) 松果體
+
+a.k.a.
++ [`pineal`](#pineal)
++ [`pineal body`](#pineal-body)
+
+<!-- TOC --><a name="habenula"></a>
+#### [habenula](https://en.wikipedia.org/wiki/Habenula)
+habenula:
++ (n.) 韁核
+
+> [!TIP]
+> 單字由來
+>
+> habenula (from Latin `habena` `韁繩`)
+
+a.k.a.
++ [`habenular nuclei`](#habenular-nuclei)
+
+<!-- TOC --><a name="habenular-nuclei"></a>
+#### [habenular nuclei](https://en.wikipedia.org/wiki/Habenula)
+habenular nuclei:
++ (n.) 韁核 (又稱失望之核)
+
+a.k.a.
++ [`habenula`](#habenula)
+
+<!-- TOC --><a name="about-eye"></a>
+### about eye
+<!-- TOC --><a name="eye"></a>
+#### eye
+eye:
++ (n.) 眼睛
+
+
+<!-- TOC --><a name="retinal"></a>
+#### retinal
+retinal:
++ (n.) 視網膜
++ (adj.) 視網膜的
+
+<!-- TOC --><a name="retinal-ganglion-cell"></a>
+#### [retinal ganglion cell](https://en.wikipedia.org/wiki/Retinal_ganglion_cell)
+retinal ganglion cell:
++ (n.) 視網膜神經節細胞
+
+See also
++ [`retinal`](#retinal)
++ [`ganglion`](#ganglion)
++ [`cell`](#cell)
+
+<!-- TOC --><a name="chiasma"></a>
+#### [chiasma](https://en.wikipedia.org/wiki/Chiasma_(genetics))
+chiasma:
++ (n.) 交叉
+
+> [!TIP]
+> 單字由來
+>
+> chiasma (from Greek `chiasma` which means `crosspeice` or `cross-shaped mark` which is orginated from `khiazein` which means `mark with the letter chi`.
+
+<!-- TOC --><a name="suprachiasmatic"></a>
+#### suprachiasmatic
++ (adj.) 視交叉上的
+
+> [!TIP]
+> 單字拆解
+>
+> supr-, super-: super, above (here is `above`)
+>
+> [chiasma](#chiasma): (n.) 交叉
+>
+> -ic: make it into adjective form
+
+<!-- TOC --><a name="nucleus"></a>
+#### nucleus
+nucleus:
++ (n.) 核
+
+> [!TIP]
+> 單字由來
+>
+> -nuc-: kernel (from Latin literally `kernel` which means `inner part`, also is diminutive of **`nux`**, **`nuc-`** which means `nut`.)
+
+<!-- TOC --><a name="nuclei"></a>
+#### nuclei
+nuclei:
++ (n.) 核 (複數)
+
+> [!NOTE]
+> nuclei is a plural noun of [`nucleus`](#nucleus)
+
+<!-- TOC --><a name="scn"></a>
+#### [SCN](https://en.wikipedia.org/wiki/Suprachiasmatic_nucleus)
+SCN stands for [`suprachiasmatic nuclei`](#suprachiasmatic-nuclei)
+
+<!-- TOC --><a name="suprachiasmatic-nuclei"></a>
+#### [suprachiasmatic nuclei](https://en.wikipedia.org/wiki/Suprachiasmatic_nucleus)
+suprachiasmatic nuclei:
++ (n.) 視交叉上核
+  
+abbreviates to 
++ [`SCN`](#SCN)
+  
 <!-- TOC --><a name="about-kidneys"></a>
 ### about kidneys
 <!-- TOC --><a name="kidneys"></a>
@@ -870,6 +1271,7 @@ Arabica:
 related word:
 + Arabica coffee
 + Arabic
+
 <!-- TOC --><a name="arabinose"></a>
 #### arabinose
 
@@ -887,7 +1289,7 @@ related word:
 arbitrary aleration of the word [`arabinose`](#arabinose).
 
 <!-- TOC --><a name="adenosine"></a>
-#### [adenosine]
+#### [adenosine](https://en.wikipedia.org/wiki/Adenosine)
 adenosine:
 + (n.) 腺苷
 
@@ -936,7 +1338,7 @@ aortic:
 > adjective form of the word [`aorta`](#aorta)
 
 <!-- TOC --><a name="regurgitation"></a>
-#### [regurgitation](https://en.wikipedia.org/wiki/Regurgitation_(digestion))
+#### [regurgitation](https://en.wikipedia.org/wiki/Regurgitation)
 regurgitation:
 + (n.) 反芻 (= repeatly indigestion for bisection)
 + (n.) 返流 (= noun form of the word `reflux`)
@@ -1084,6 +1486,21 @@ See also
 glucose:
 + (n) 葡萄糖
 
+<!-- TOC --><a name="glycogen"></a>
+#### [glycogen](https://en.wikipedia.org/wiki/Glycogen)
+glycogen:
++ (n.) 肝醣
+
+> [!TIP]
+> 單字拆解
+>
+> -gen-: (v.) generate
+
+<!-- TOC --><a name="blood-sugar"></a>
+#### [blood sugar](https://en.wikipedia.org/wiki/Blood_sugar_level)
+blood sugar:
++ (n.) 血糖
+
 <!-- TOC --><a name="carbohybrate"></a>
 #### [carbohybrate](https://en.wikipedia.org/wiki/Carbohydrate)
 carbohybrate:
@@ -1094,6 +1511,160 @@ carbohybrate:
 >
 > blend of `carbon` and `hybrate`. 
 
+<!-- TOC --><a name="about-immunity"></a>
+## about immunity
+<!-- TOC --><a name="immunity"></a>
+### immunity
+immunity:
++ (n.) 免疫力
+
+<!-- TOC --><a name="immune-system"></a>
+### immune system
+immune system:
++ (n.) 免疫系統
+
+<!-- TOC --><a name="about-innate-immune-system"></a>
+### about innate immune system
+<!-- TOC --><a name="innate"></a>
+#### innate
+innate:
++ (adj.) 與生俱來的
+  
+<!-- TOC --><a name="innate-immune-system"></a>
+#### [innate immune system](https://en.wikipedia.org/wiki/Innate_immune_system)
+innate immune system:
++ (n.) 先天免疫系統
+
+a.k.a.
++ [`nonspecific immune system`](#nonspecific-immune-system)
+
+<!-- TOC --><a name="nonspecific-immune-system"></a>
+#### [nonspecific immune system](https://en.wikipedia.org/wiki/Innate_immune_system)
+
+a.k.a.
++ [`innate immune system`](#innate-immune-system)
+
+<!-- TOC --><a name="macrophages"></a>
+#### [macrophages](https://zh.m.wikipedia.org/zh-tw/%E5%B7%A8%E5%99%AC%E7%BB%86%E8%83%9E)
+macrophages:
++ (n.) 巨噬細胞
+
+<!-- TOC --><a name="neutrophils"></a>
+#### [neutrophils](https://zh.m.wikipedia.org/zh-tw/%E4%B8%AD%E6%80%A7%E7%B2%92%E7%BB%86%E8%83%9E)
+neutrophils:
++ (n.) 嗜中性白血球
+
+<!-- TOC --><a name="natual-killer-cells"></a>
+#### [natual killer cells](https://zh.m.wikipedia.org/zh-tw/%E8%87%AA%E7%84%B6%E6%9D%80%E4%BC%A4%E7%BB%86%E8%83%9E)
+natual killer cells:
++ (n.) 自然殺手細胞
+
+<!-- TOC --><a name="complement-system"></a>
+#### [complement system](https://en.wikipedia.org/wiki/Complement_system)
+complement system:
++ (n.) 補體系統
+
+<!-- TOC --><a name="about-cytokine"></a>
+#### about cytokine
+<!-- TOC --><a name="cytokine"></a>
+##### [cytokine](https://zh.m.wikipedia.org/zh-tw/%E7%BB%86%E8%83%9E%E5%9B%A0%E5%AD%90)
+cytokine:
++ (n.) 細胞激素 (又稱細胞因子)
+
+<!-- TOC --><a name="interleukin-1-family"></a>
+##### [interleukin-1 family](https://en.wikipedia.org/wiki/Interleukin-1_family)
+interleukin-1 family:
++ (n.) 白介素-1族 (又稱白血球介素-1族)
+
+<!-- TOC --><a name="il-6"></a>
+##### [IL-6](https://en.wikipedia.org/wiki/Interleukin_6)
+IL-6 stands for [`interleukin 6`](#interleukin-6)
+
+<!-- TOC --><a name="interleukin-6"></a>
+##### [interleukin 6](https://en.wikipedia.org/wiki/Interleukin_6)
+interleukin 6:
++ (n.) 白介素-6 (又稱白血球介素-6)
+
+abbreviates to
++ [`IL-6`](#IL-6)
+
+<!-- TOC --><a name="il-8"></a>
+##### [IL-8](https://en.wikipedia.org/wiki/Interleukin_8)
+IL-8 stands for [`interleukin 6`](#interleukin-8)
+
+<!-- TOC --><a name="interleukin-8"></a>
+##### [interleukin 8](https://en.wikipedia.org/wiki/Interleukin_8)
+interleukin 8:
++ (n.) 白介素-8 (又稱白血球介素-8)
+
+abbreviates to
++ [`IL-8`](#IL-8)
+  
+<!-- TOC --><a name="il-10"></a>
+##### [IL-10](https://en.wikipedia.org/wiki/Interleukin_10)
+IL-10 stands for [`interleukin 6`](#interleukin-10)
+
+<!-- TOC --><a name="interleukin-10"></a>
+##### [interleukin 10](https://en.wikipedia.org/wiki/Interleukin_10)
+interleukin 10:
++ (n.) 白介素-10 (又稱白血球介素-10)
+
+abbreviates to
++ [`IL-10`](#IL-10)
+
+<!-- TOC --><a name="tnf-"></a>
+##### [TNF-α](https://en.wikipedia.org/wiki/Tumor_necrosis_factor)
+TNF-α stands for [`tumor necrosis factor alpha`](#tumor-necrosis-factor-alpha)
+
+<!-- TOC --><a name="tumor-necrosis-factor-alpha"></a>
+##### [tumor necrosis factor alpha](https://en.wikipedia.org/wiki/Tumor_necrosis_factor)
+tumor necrosis factor alpha:
++ (n.) 腫瘤壞死alpha因子
+
+abbreviates to
++ [`TNF-α`](#TNF-α)
+
+<!-- TOC --><a name="about-adaptive-immune-system"></a>
+### about adaptive immune system
+<!-- TOC --><a name="adaptive"></a>
+#### adaptive
+adaptive:
++ (adj.) 適應良好的
+  
+<!-- TOC --><a name="adaptive-immune-system"></a>
+#### [adaptive immune system](https://en.wikipedia.org/wiki/Adaptive_immune_system)
+adaptive immune system:
++ (n.) 適應性免疫系統 (又稱後天免疫系統)
+
+<!-- TOC --><a name="ab"></a>
+####  [Ab](https://zh.m.wikipedia.org/zh-tw/%E6%8A%97%E4%BD%93)
+Ab stands for [`antibody`](#antibody)
+
+<!-- TOC --><a name="antibody"></a>
+#### [antibody](https://zh.m.wikipedia.org/zh-tw/%E6%8A%97%E4%BD%93)
+antibody:
++ (n.) 抗體 (又稱免疫球蛋白)
+
+abbreviates to 
++ [`Ab`](#Ab)
+  
+a.k.a
++ [`immunoglobulin`](#immunoglobulin)
+
+<!-- TOC --><a name="lg"></a>
+#### [Lg](https://zh.m.wikipedia.org/zh-tw/%E6%8A%97%E4%BD%93)
+Lg stands for [`immunoglobulin`](#immunoglobulin)
+
+<!-- TOC --><a name="immunoglobulin"></a>
+#### [immunoglobulin](https://zh.m.wikipedia.org/zh-tw/%E6%8A%97%E4%BD%93)
+
+abbreviates to
++ [`Lg`](#Lg)
+
+a.k.a.
++ [`antibody`](#antibody)
+
+####
 <!-- TOC --><a name="about-disease"></a>
 ## about disease
 <!-- TOC --><a name="necrosis"></a>
@@ -1113,6 +1684,18 @@ tumor:
 cancer: 
 + (n.) 癌症 (= malicious [tumor](#tumor))
 
+<!-- TOC --><a name="carcinoma"></a>
+#### [carcinoma](https://en.wikipedia.org/wiki/Carcinoma)
+carcinoma:
++ (n.) 皮質癌
+
+> [!TIP]
+> 單字拆解
+>
+> -carc-: (n.) blood meet
+>
+> -oma: (n.) cancer
+
 <!-- TOC --><a name="acc"></a>
 #### [ACC](https://en.wikipedia.org/wiki/Adrenocortical_carcinoma)
 ACC stands for `adrenocortical carcinoma`.
@@ -1122,7 +1705,13 @@ See also
   
 <!-- TOC --><a name="adrenocortical-carcinoma"></a>
 #### [adrenocortical carcinoma](https://en.wikipedia.org/wiki/Adrenocortical_carcinoma)
+adrenocortical carcinoma:
++ (n.) 腎上腺皮質癌
 
+See also
++ [`adrenocortical`](#adrenocortical)
++ [`carcinoma`](#carcinoma)
+  
 <!-- TOC --><a name="about-other"></a>
 ## about other
 <!-- TOC --><a name="factor"></a>
@@ -1153,3 +1742,140 @@ compound muscle action potential:
 
 abbreviates to 
 + [`cMAP`](#cMAP)
+
+<!-- TOC --><a name="about-sleep"></a>
+## about sleep
+<!-- TOC --><a name="sleep"></a>
+### sleep
++ (v.) 睡覺
++ (n.) 睡眠
+
+<!-- TOC --><a name="rapid-eye-movement-sleep"></a>
+### [rapid eye movement sleep](https://en.wikipedia.org/wiki/Rapid_eye_movement_sleep)
+rapid eye movement sleep:
++ (n.) 快速動眼睡眠
+
+See also
++ [`eye`](#eye)
++ [`sleep`](#sleep)
+  
+<!-- TOC --><a name="circadian"></a>
+### circadian
+cirdian:
++ (n.) recurring naturally on a twenty-four-hour cycle, even in the absence of light fluctuations.
+
+<!-- TOC --><a name="rhythm"></a>
+### [rhythm](https://en.wikipedia.org/wiki/Rhythm)
+rhythm:
++ (n.) 節律
+  
+<!-- TOC --><a name="circadian-rhythm"></a>
+### [circadian rhythm](https://en.wikipedia.org/wiki/Circadian_rhythm)
+circadian rhythm:
+(n.) 晝夜節律 (又稱近日節律)
+
+<!-- TOC --><a name="melatonin"></a>
+### [melatonin](https://en.wikipedia.org/wiki/Melatonin)
+melatonin:
++ (n.) 褪黑激素
+
+> [!TIP]
+> 單字拆解
+>
+> -mela-: black (fromm Greek `melas` which means `black`)
+>
+> blend of `-mela-` and `serotonin`
+
+<!-- TOC --><a name="about-therapy-or-cure"></a>
+## about therapy or cure
+<!-- TOC --><a name="therapy"></a>
+### [therapy](https://en.wikipedia.org/wiki/Therapy)
+therapy:
++ (n.) 治療
+
+<!-- TOC --><a name="cure"></a>
+### [cure](https://en.wikipedia.org/wiki/Cure)
+cure:
++ (n.) 治癒
+
+> [!NOTE]
+> `therapy` has NOT same meaning to `cure`.
+>
+> `therapy` refers to use a medical way to NOT make the symptom of disease get worse.
+>
+> `cure` refers to use a medical way to make the symptom of disease dispear even if there is **ONLY** a small probability that get the same symptom.
+
+<!-- TOC --><a name="cbt"></a>
+### [CBT](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy)
+CBT stands for [`cognitive behavioral therapy`](#cognitive-behavioral-therapy)
+
+<!-- TOC --><a name="cognitive-behavioral-therapy"></a>
+### [cognitive behavioral therapy](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy)
+cognitive behavioral therapy:
++ (n.) 行為認知治療
+  
+abbreviates to
++ [`CBT`](#CBT)
+
+<!-- TOC --><a name="cbt-i"></a>
+### CBT-I 
+CBT-I stands for [`instruction of cognitive behavioral therapy`](#instruction-of-cognitive-behavioral-therapy)
+
+<!-- TOC --><a name="instruction-of-cognitive-behavioral-therapy"></a>
+### instruction of cognitive behavioral therapy
+instruction of cognitive behavioral therapy:
++ (n.) 行為認知治療指南
+
+abbreviates to
++ [`CBT-I`](#CBT-I)
+
+<!-- TOC --><a name="cycle"></a>
+### cycle
+cycle:
++ (n.) 循環
+  
+<!-- TOC --><a name="cyclic"></a>
+### cyclic
++ (adj.) 週期性的 (=periodic)
+
+<!-- TOC --><a name="winnow"></a>
+### winnow
+winnow:
++ (v.) blow a current of air through (grain) in order to remove the chaff
++ (n.) wind (literally)
+  
+<!-- TOC --><a name="ventilate"></a>
+### ventilate
+ventilate:
+(v.) 使通風
+
+> [!TIP]
+> 單字由來
+>
+> (from Latin `ventilat-` `blown` or `winnowed` which is originated in ventus `wind`. Sense 1 dates from the middle of 18th century.)
+
+<!-- TOC --><a name="ventilation"></a>
+### ventilation
+ventilation:
++ (n.) 通風
++ (n.) 呼吸 (=breathing) (more literally)
+<!-- TOC --><a name="hyperventilation"></a>
+### hyperventilation
+hyperventilation:
++ (n.) 過度換氣
+
+> [!TIP]
+> 單字拆解
+>
+> hyper-: super
+>
+> ventilation: (n.) 呼吸
+
+<!-- TOC --><a name="cyclic-hyperventilation"></a>
+### cyclic hyperventilation
+cyclic hyperventilation:
++ (n.) 周期過度換氣的呼吸法
+
+See also
++ [`cyclic`](#cyclic)
++ [`hyperventilation`](#hyperventilation)
